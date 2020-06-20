@@ -1,3 +1,13 @@
+## Read Me:
+
+This repo is an exercise to practise Redux with React Hooks and a little bit of graphQL.
+
+In this project i learned the Redux ducks architecture, to use firebase auth and database, and to make use of local storage for optimizing api calls. Also i improved my ES6 and functional proggraming skills
+
+Deploy done on firebase
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
