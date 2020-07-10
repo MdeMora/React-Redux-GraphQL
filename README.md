@@ -6,6 +6,8 @@ In this project i learned the Redux ducks architecture, to use firebase auth and
 
 Deploy done on firebase
 
+https://react-redux-graphql-test.web.app/
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
